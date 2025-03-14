@@ -1,1 +1,1 @@
-# medical-model
+# fine-tune deepseek for medical-model
